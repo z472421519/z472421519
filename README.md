@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **z472421519/z472421519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
+
+I'm **Tiantai Zhang**, a PhD student in Computer Science at Nanjing University, advised by Prof. Bing Mao. I was also a visiting scholar at Purdue University.
+
+* 🔬 My research focuses on binary analysis, reverse engineering, software protection, and AI for binary security, with recent interests in LLM-assisted vulnerability discovery.
+* 📄 My work on binary disassembly, function identification, and control-flow obfuscation has appeared at USENIX Security, ISSTA, and ACM TOSEM.
+* 🏆 Former ICPC/CCPC contestant and Codeforces Candidate Master.
+* 🌐 [Homepage](https://z472421519.github.io/) · 📫 **z472421519 at gmail dot com**
+
