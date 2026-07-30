@@ -1,23 +1,20 @@
-<!--
-**z472421519/z472421519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ## Hi there 👋
 
-I'm **Tiantai Zhang**, a PhD student in Computer Science at Nanjing University, advised by Prof. Bing Mao. I was also a visiting scholar at Purdue University.
+I'm **Tiantai Zhang**, a Ph.D. student in Computer Science at Nanjing University, advised by Prof. Bing Mao. I was previously a Visiting Scholar at Purdue University, working with Prof. Xiangyu Zhang.
 
-* 🔬 My research focuses on binary analysis, reverse engineering, software protection, and AI for binary security, with recent interests in LLM-assisted vulnerability discovery.
-* 📄 My work on binary disassembly, function identification, and control-flow obfuscation has appeared at USENIX Security, ISSTA, and ACM TOSEM.
-* 🏆 Former ICPC/CCPC contestant and Codeforces Candidate Master.
-* 🌐 [Homepage](https://z472421519.github.io/) · 📫 **z472421519 at gmail dot com**
+My research lies at the intersection of **binary analysis**, **reverse engineering**, **software protection**, and **AI-assisted binary security**.
 
+### What I'm Working On
+
+- 🔍 How can AI-assisted binary auditing move from plausible findings to verifiable security evidence?
+- 🧩 How do decompilation challenges affect model-based binary bug detection?
+- 🛡️ Can compiler and runtime defenses remain secure and practical under real-world optimization?
+
+### Research & Publications
+
+My work spans binary disassembly ground truth, function-entry identification and obfuscation, practical binary defenses, and LLM-assisted vulnerability analysis. It has appeared in, or been accepted to, **ACM CCS**, **USENIX Security**, **ISSTA**, and **ACM TOSEM**.
+
+- 🏆 Former ICPC/CCPC contestant and Codeforces Candidate Master
+- 🌐 [Homepage](https://z472421519.github.io/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=5VI9GAIAAAAJ)
+- 📫 **z472421519 at gmail dot com**
